@@ -11,17 +11,23 @@ Our chat client is unique in providing users with control over the components in
 
 Similarly we can obtain details of all users involved in the project.
 
-### Getting detais of all users involved in a project
+### Getting detais of all users involved in a project:
 
 ![Tags](https://cloud.githubusercontent.com/assets/16812117/18616080/44ebddd4-7d7b-11e6-940b-18db7963dc7c.png)
+
+### Sending chat message to any forumThread:
 
 While in a forum thread, we can even send chat message to any other forumThread as shown below.
 
 ![Tags](https://cloud.githubusercontent.com/assets/16812117/18616123/d66a4930-7d7b-11e6-872a-227aa279c001.PNG)
 
+### Searching StackOverflow:
+
 Our chat bot integrates GForce NEXT API to StackExchange API. So, it's possible for users to directly search for some problem like an error.
 
 ![Tags](https://cloud.githubusercontent.com/assets/16812117/18616203/c475a91c-7d7c-11e6-9686-17e64e9eabca.PNG)
+
+### Getting directions using Google Maps:
 
 If developers talk about lunch or dinner at some location, our chat bot can give them directions to go using Google Maps API.
 
