@@ -21,7 +21,7 @@ Similarly we can obtain details of all users involved in the project.
 
 ### Sending chat message to any forumThread:
 
-/chat id:0 subject:'testing python post' body:'12345new post' forumThread:7238
+`/chat id:0 subject:'testing python post' body:'12345new post' forumThread:7238`
 
 While in a forum thread, we can even send chat message to any other forumThread as shown below.
 
