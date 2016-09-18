@@ -37,8 +37,8 @@ If users talk about lunch or dinner at some location, our chat bot can give them
 
 Our chat-bot is connected to Twilio API, so users can directly send text messages directly to their phones.
 
-![Tags](https://cloud.githubusercontent.com/assets/16812117/18616255/ffffe622-7d7d-11e6-85b2-a93f48bb5bf5.PNG)
-
+![Tags](https://cloud.githubusercontent.com/assets/16812117/18616325/6f62db18-7d7f-11e6-83c3-3f2fe4906196.PNG)
+![Tags](https://cloud.githubusercontent.com/assets/16812117/18616334/9a84f178-7d7f-11e6-8857-cf58b7120598.png)
 ### Future work
 
 This chat-bot makes the chat client of GForge NEXT platform powerful and more useful to the users. With advances in technologies like deep learning and natural language processing, We could further improve this bot take care of anything users want to do in the GForge NEXT platform, without leaving their chat boxes.
