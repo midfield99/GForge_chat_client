@@ -19,3 +19,10 @@ While in a forum thread, we can even send chat message to any other forumThread 
 
 ![Tags](https://cloud.githubusercontent.com/assets/16812117/18616123/d66a4930-7d7b-11e6-872a-227aa279c001.PNG)
 
+Our chat bot integrates GForce NEXT API to StackExchange API. So, it's possible for users to directly search for some problem like an error.
+
+![Tags](https://cloud.githubusercontent.com/assets/16812117/18616203/c475a91c-7d7c-11e6-9686-17e64e9eabca.PNG)
+
+If developers talk about lunch or dinner at some location, our chat bot can give them directions to go using Google Maps API.
+
+![Tags](https://cloud.githubusercontent.com/assets/16812117/18616220/22dc2f30-7d7d-11e6-8531-54dedd4e2a75.PNG)
