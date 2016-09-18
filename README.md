@@ -29,6 +29,13 @@ Our chat bot integrates GForce NEXT API to StackExchange API. So, it's possible 
 
 ### Getting directions using Google Maps:
 
-If developers talk about lunch or dinner at some location, our chat bot can give them directions to go using Google Maps API.
+If users talk about lunch or dinner at some location, our chat bot can give them directions to go using Google Maps API.
 
 ![Tags](https://cloud.githubusercontent.com/assets/16812117/18616220/22dc2f30-7d7d-11e6-8531-54dedd4e2a75.PNG)
+
+### Sending text messages to phones:
+
+Our chat-bot is connected to Twilio API, so users can directly send text messages directly to their phones.
+
+![Tags](https://cloud.githubusercontent.com/assets/16812117/18616255/ffffe622-7d7d-11e6-85b2-a93f48bb5bf5.PNG)
+
