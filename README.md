@@ -39,3 +39,6 @@ Our chat-bot is connected to Twilio API, so users can directly send text message
 
 ![Tags](https://cloud.githubusercontent.com/assets/16812117/18616255/ffffe622-7d7d-11e6-85b2-a93f48bb5bf5.PNG)
 
+### Future work
+
+This chat-bot makes the chat client of GForge NEXT platform powerful and more useful to the users. With advances in technologies like deep learning and natural language processing, We could further improve this bot take care of anything users want to do in the GForge NEXT platform, without leaving their chat boxes.
