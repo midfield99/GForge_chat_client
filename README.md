@@ -6,5 +6,5 @@ Our chat client is unique in providing users with control over the components in
 
 ### Creation of tickets:
 
-![Tags](https://cloud.githubusercontent.com/assets/16812117/18538521/7831879c-7ad4-11e6-99e1-89e6904f38e2.png)
+![Tags](https://cloud.githubusercontent.com/assets/16812117/18616051/b60e96e2-7d7a-11e6-9eab-e8322001ce98.png)
 
