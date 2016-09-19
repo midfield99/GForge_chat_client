@@ -78,7 +78,7 @@ def todo(payload):
 		postrequest = requests.post(postForumURL,postdata1)
 
 def search_stackoverflow(query):
-	so = stackexchange.Site(stackexchange.StackOverflow, app_key='S3abU4WtBqUvzSlHg9)reA((', impose_throttling=True)
+	so = stackexchange.Site(stackexchange.StackOverflow, app_key='STACKEXCHANGE_API_KEY', impose_throttling=True)
 	qs = so.search(intitle=query)
 	
 	y=0
