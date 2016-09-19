@@ -6,9 +6,9 @@ import stackexchange
 from twilio.rest import TwilioRestClient
 from time import sleep
 
-usr = 'dy5kc'
+usr = 'YOURUSERNAME'
 pw = 'YOURPASSWORD'
-base_url = "https://" + usr + ":" + pw + ".@next.gforge.com"
+base_url = "https://" + usr + ":" + pw + "@next.gforge.com"
 
 def process_chat():
 	last_message = 0
@@ -94,7 +94,7 @@ def search_stackoverflow(query):
 			break
 
 	url = 'http://stackoverflow.com/questions/' + str(y)
-	postTrackeritemURL = 'https://dy5kc:Savesome1.@next.gforge.com/api/forummessage/?forumthread=7238'
+	postTrackeritemURL = 'https://USERNAME:PASSWORD@next.gforge.com/api/forummessage/?forumthread=7238'
 	postdataMostViewedPosts = '{"id":0,"subject":"Most viewed posts on StackOverflow", "body":"http://stackoverflow.com/questions/tagged/' + query + '?sort=votes&pageSize=15","forumThread": 7238}'
 	postrequest1 = requests.post(postTrackeritemURL, postdataMostViewedPosts)
 	postdataMostPopularPosts = '{"id":0,"subject":"Most popular StackOverflow post", "body":"' + url + '","forumThread": 7238}'
