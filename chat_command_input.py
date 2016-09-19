@@ -7,7 +7,7 @@ from twilio.rest import TwilioRestClient
 from time import sleep
 
 usr = 'dy5kc'
-pw = 'Savesome1'
+pw = 'YOURPASSWORD'
 base_url = "https://" + usr + ":" + pw + ".@next.gforge.com"
 
 def process_chat():
